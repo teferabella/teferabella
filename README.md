@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Isabella Tefera
+- 🖥️ I tell computers what to do
 - 👀 I speak Java, Python, C, C++, C# and x86-64 Assembly
 - 🌍 I also speak German, English and Russian and I understand French and Spanish
 - 🌱 I’m currently in a B.Sc. program for Informatics: Games Engineering at Technical University of Munich
